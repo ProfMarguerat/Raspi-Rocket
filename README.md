@@ -12,6 +12,8 @@ un programme pour la gestion des DEL au démarrage.
 
 ![IMG_20240530_112829](https://github.com/ProfMarguerat/Raspi-Rocket/assets/171016883/29e7ed7f-0c27-4971-8d2a-14dab0eeeb68)
 
+![Image](https://github.com/user-attachments/assets/5ddc34b3-55ad-4b42-9486-5f59c5d23b99)
+
 ## Tirs : 
 
 ![DSC_0157](https://github.com/ProfMarguerat/Raspi-Rocket/assets/171016883/1d160106-2bba-4a75-bd26-404d9e3c572c)
