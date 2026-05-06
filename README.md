@@ -3,14 +3,14 @@
 Programmes pour un Raspberry Zero W.  
 Il y a un programme pour démarer les séquences de films avec un bouton ou un intérupteur,   
 un programme pour avoir une trace GPS de la fusée,   
-un programme pour la gestion des DEL au démarrage.   
+un programme pour la gestion des DEL au démarrage.  
 
-![DSC_0129](https://github.com/ProfMarguerat/Raspi-Rocket/assets/171016883/2e79a8ad-28c6-4279-8169-d6602260824e)  
+ <img width="5184" height="3456" alt="Image" src="https://github.com/user-attachments/assets/6186531e-8ca5-4bda-b76e-3567c57846c6" />
+ <img width="5184" height="3456" alt="Image" src="https://github.com/user-attachments/assets/404c27b6-fdda-492d-bc0a-cc846864b79c" />
+ <img width="5184" height="3456" alt="Image" src="https://github.com/user-attachments/assets/9c4e336c-a836-435d-9b72-b562ea28ba6d" />
+ 
+<img width="3456" height="5184" alt="Image" src="https://github.com/user-attachments/assets/7b34817b-54ce-479e-9e34-6f3338e8393d" />
 
-
-![IMG_20240530_112835](https://github.com/ProfMarguerat/Raspi-Rocket/assets/171016883/4b451d7a-9b0b-4d09-abd9-ad026f6e4b3e)
-
-![IMG_20240530_112829](https://github.com/ProfMarguerat/Raspi-Rocket/assets/171016883/29e7ed7f-0c27-4971-8d2a-14dab0eeeb68)
 
 ![Image](https://github.com/user-attachments/assets/5ddc34b3-55ad-4b42-9486-5f59c5d23b99)
 
